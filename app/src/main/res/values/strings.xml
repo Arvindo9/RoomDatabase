@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_name">Enter name</string>
+    <string name="designation">Designation</string>
+    <string name="date">date</string>
+    <string name="mobile">Mobile</string>
+    <string name="login">login</string>
+    <string name="login_activity">Login activity</string>
+    <string name="registration_activity">Registration activity</string>
+    <string name="registration">Registration</string>
+    <string name="enter_salary">Salary</string>
+    <string name="cancel">Cancel</string>
+    <string name="main_activity">Main activity</string>
+    <string name="see_list">See all users</string>
+    <string name="userList">Users list</string>
+</resources>
